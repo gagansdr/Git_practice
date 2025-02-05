@@ -1,2 +1,6 @@
 this is prem 
+<<<<<<< HEAD
 I am updating this file and pushing it 
+=======
+this has been updated by prem today 
+>>>>>>> prem_branch
